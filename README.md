@@ -28,16 +28,22 @@ menggunakan **SQLite** serta dapat disinkronkan ke **Firebase** ketika koneksi t
 ## ⚙️ Cara Menjalankan Aplikasi
 
 1. Clone Repository
-git clone https://github.com/kptncici/Aplikasi-Manajemen-Data.git
+   git clone https://github.com/kptncici/Aplikasi-Manajemen-Data.git
 
-cd Aplikasi-Manajemen-Data
+   cd Aplikasi-Manajemen-Data
 
-2. Install Dependencies
-npm install
+2. Masuk ke folder project:
+   cd nama-folder
 
-3. Jalankan Server
-node server.js
-Server akan berjalan di http://localhost:3000
+3. Install dependencies:
+   npm install
+
+4. Jalankan server:
+   node server.js
+   Server akan berjalan di http://localhost:3000
+
+## 🔗 Link Firebase dan konfigurasi
+Pastikan file `serviceAccountKey.json` tersedia di root folder.
 
 ---
 
