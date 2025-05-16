@@ -29,6 +29,7 @@ menggunakan **SQLite** serta dapat disinkronkan ke **Firebase** ketika koneksi t
 
 1. Clone Repository
 git clone https://github.com/kptncici/Aplikasi-Manajemen-Data.git
+
 cd Aplikasi-Manajemen-Data
 
 2. Install Dependencies
