@@ -67,6 +67,20 @@ Aplikasi-Manajemen-Data/
 Pull Request sangat terbuka! Silakan fork repo ini, tambahkan fitur atau perbaikan bug, lalu buat PR.
 
 ---
+## Nama Kelompok: Kelompok 2
+
+Anggota:
+- Nurfadilla Rhamadani (23621039)
+- Diva Riantika Ramadhanty (23621035)
+- Wa Shinta (23621012)
+- Magfira Rahma Arilaha (23621001)
+- Gracelia Putri B.M (22621019)
+- Muhammad Fachrul Syam (23621057)
+
+
+https://github.com/kptncici/Aplikasi-Manajemen-Data.git
+
+---
 ## 📄 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 
