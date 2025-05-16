@@ -78,7 +78,7 @@ Anggota:
 - Muhammad Fachrul Syam (23621057)
 
 
-https://github.com/kptncici/Aplikasi-Manajemen-Data.git
+Link GitHub: https://github.com/kptncici/Aplikasi-Manajemen-Data.git
 
 ---
 ## 📄 Lisensi
